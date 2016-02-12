@@ -21,6 +21,11 @@ html {
   box-sizing: inherit;
 }
 
-html{
+html {
   background-color: #D6E7F7;
+}
+
+.bar1 {
+  background-color: #FF5959;
+
 }
