@@ -50,7 +50,7 @@ html {
 
 }
 
-.clock-hand2{
+.clock-hand2 {
   transform-origin: 392px 225px;
   animation: spin 2s infinite linear;
 }
